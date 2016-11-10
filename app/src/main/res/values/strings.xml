@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fragments Basic</string>
+
+    <string name="hello_blank_article_fragment">Hello ARTICLE fragment</string>
+    <string name="hello_blank_headline_fragment">Hello HEADLINE fragment</string>
+    <string name="send">Send</string>
+</resources>
